@@ -1,0 +1,72 @@
+/*Header & navbar*/
+
+header{
+    background-color: #333333;
+    color : white;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+/*body*/
+
+section{
+    background-color: #0093c8;
+}
+
+footer{
+    background-color: #333333;
+    color : white;
+}
+
+.cite{
+    background-color: white;
+    color: grey;
+    text-align: center;
+    font-size: 27px;
+    height: 70px;
+    padding-top: 30px;
+}
+
+h1{
+    color : white;
+}
+
+.accroche{
+    background-color: white;
+    font-size: 32px;
+    text-align: center;
+    height: 70px;
+    padding-top: 30px;
+}
+
+/*Images*/
+
+#logocentral{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*boutons*/
+
+.bouton{
+    background-color: darkorange;
+    border-radius: 5%;
+    border: 2px white solid;
+    font-size: 20px;
+    color: white;
+    height: 70px;
+    width: 250px;
+}
+
+.points{
+    color : white;
+    display: flex;
+}
