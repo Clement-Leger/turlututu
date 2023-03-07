@@ -9,7 +9,7 @@ Je suis seul sur ce projet.
 Ceci est un exercice de reproduction de page.  
 Je dois être le plus précis possible dans ma reproduction.  
 Elle doit ressembler à ceci  :
-<img src="https://raw.githubusercontent.com/becodeorg/Swartz-6/main/1.The-Field/8.Html-CSS/progressive-enhancement/turlututu.png?token=GHSAT0AAAAAAB7WORNGCJCR52XMREEAPXFIZAHK4WA" />
+<img src="https://raw.githubusercontent.com/becodeorg/Swartz-6/main/1.The-Field/8.Html-CSS/progressive-enhancement/turlututu.png?token=GHSAT0AAAAAAB7WORNGCJCR52XMREEAPXFIZAHK4WA" width="300px"/>
 
 ### Quels sont les langages utilisés ?
 
